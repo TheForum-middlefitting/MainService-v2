@@ -1,6 +1,6 @@
 module.exports = {
   repositoryUrl: 'https://github.com/middlefitting/semanticTest',
-  branches: ['main'],
+  branches: ['main', 'develop'],
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
